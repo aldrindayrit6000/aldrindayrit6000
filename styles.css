@@ -106,9 +106,7 @@ body {
   border-left: 250px solid transparent;
   border-right: 250px solid transparent;
   border-bottom: 90px solid transparent;
-  /* a little smaller */
   border-top: 115px solid #ff3333;
-  /* a little larger */
   transform-origin: top;
   pointer-events: none;
 }
