@@ -13,7 +13,7 @@ function checkPassword() {
     document.getElementById("password-form").style.display = "none";
     document.getElementById("main-content").style.display = "block";
   } else {
-    alert("who r u?");
+    alert("who are u?");
   }
 }
 
